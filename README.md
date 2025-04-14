@@ -22,6 +22,3 @@ python manage.py migrate
 ```sh
 python manage.py runserver
 ```
-
-## Where to find Me
-visit My [Website](https://shyam999.github.io)
