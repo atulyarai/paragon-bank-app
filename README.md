@@ -5,7 +5,7 @@
 ## Installation:
 **1.Clone Repo**
 ```sh
-git clone https://github.com/shyam999/ParagonBank.git
+git clone https://github.com/atulyarai/paragon-bank-app.git
 ```
 **2.Setup Virtualenv & Install Requirements**
 ```sh
